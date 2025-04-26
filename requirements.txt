@@ -1,0 +1,4 @@
+roboflow>=1.1.61
+inference-sdk>=0.48.0
+supervision>=0.25.1
+inference[yolo-world]>=0.48.0
